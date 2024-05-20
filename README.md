@@ -1,0 +1,3 @@
+# desktop
+GIGABYTE H610M H DDR5 mATX Motherboard
+TEAM VULCAN Black 8GB DDR5 5200MHz
