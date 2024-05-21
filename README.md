@@ -30,8 +30,8 @@
 
 
 **Monitor :**
- > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor \
- > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor
+ > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor with HDMI\
+ > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor with HDMI
   
 **wifi Adaper :**
 
