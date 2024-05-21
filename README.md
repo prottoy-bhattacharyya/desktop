@@ -34,6 +34,7 @@
  > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor with HDMI
   
 **wifi Adaper :**
+ >Havit WF32 300mbps USB Lan Card
 
 **KeyBoard Mouse:**
  >**MUST have Glowing Keys in Keyboard**\
