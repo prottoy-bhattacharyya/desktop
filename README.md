@@ -14,12 +14,14 @@
 > G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM
 
 **SSD :** 
->Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD\
+>Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
 >
 
 
 **casing :**
->Value-Top V200CW Micro ATX Casing With **200w** PSU
+>Value-Top V200CW Micro ATX Casing With **200w** PSU\
+>Value-Top VT-V100CW Mid Tower Micro-ATX Casing With PSU\
+>Revenger ECO 200-3F Mini Tower Micro-ATX Casing With PSU
 
 **Casing Cooler :** 
 >Deepcool XFAN 80 Case Cooling Fan
