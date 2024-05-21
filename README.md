@@ -13,10 +13,13 @@
 > Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM\
 > G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM\
 
-**SSD :** Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
+**SSD :** 
+>Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD\
+>
 
 
-casing :Value-Top V200CW Micro ATX Casing With **200w** PSU\
+casing :
+>Value-Top V200CW Micro ATX Casing With **200w** PSU\
 Casing Cooler :Deepcool XFAN 80 Case Cooling Fan
 
 
