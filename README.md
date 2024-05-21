@@ -6,7 +6,7 @@
 **SSD :** Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
 
 
-casing :Value-Top V200CW Micro ATX Casing With** 200w** PSU\
+casing :Value-Top V200CW Micro ATX Casing With **200w** PSU\
 Casing Cooler :Deepcool XFAN 80 Case Cooling Fan
 
 
