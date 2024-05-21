@@ -36,7 +36,7 @@
 **wifi Adaper :**
 
 **KeyBoard Mouse:**
- >**MUST have glowing Keys**
+ >**MUST have Glowing Keys**\
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo \
  > AULA T102 RGB Keyboard & Mouse Gaming Combo\
  > iMICE AK-600 Wired USB Luminescent Gaming Keyboard
