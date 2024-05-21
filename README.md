@@ -18,18 +18,19 @@
 >
 
 
-casing :
+**casing :**
 >Value-Top V200CW Micro ATX Casing With **200w** PSU
 
-Casing Cooler :Deepcool XFAN 80 Case Cooling Fan
+**Casing Cooler :** 
+>Deepcool XFAN 80 Case Cooling Fan
 
 
 **Monitor :**
  > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor \
  > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor
   
-wifi Adaper :
+**wifi Adaper :**
 
-KeyBoard Mouse combo:
+**KeyBoard Mouse combo:**
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo \
  > AULA T102 RGB Keyboard & Mouse Gaming Combo
