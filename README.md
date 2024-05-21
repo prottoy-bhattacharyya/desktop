@@ -1,6 +1,8 @@
 # desktop
 
-**Proccessor :** Intel Core i3-12100 12th Gen Alder Lake Processor\
+**Proccessor :** 
+>Intel Core i3-12100 12th Gen Alder Lake Processor
+
 **MotherBoard :** 
 > GIGABYTE H610M H DDR5 mATX Motherboard \
 > GIGABYTE H610M H DDR4 Micro ATX Motherboard
