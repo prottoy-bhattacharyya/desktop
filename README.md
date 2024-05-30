@@ -44,6 +44,8 @@
  >**MUST have Glowing Keys in Keyboard**\
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo \
  > AULA T102 RGB Keyboard & Mouse Gaming Combo\
+ >DIAMOND FIELD DF-001 RGB PRO Keyboard\
+ >Meetion MT-M371 USB Wired Backlit Gaming Mouse\
  > iMICE AK-600 Wired USB Luminescent Gaming Keyboard\
  >iMICE KM-760 RGB Gaming Keyboard and Mouse Combo\
  >Havit MS72 Cool RGB LED USB Gaming Mouse Black\
