@@ -17,6 +17,9 @@
 
 **SSD :** 
  >**Any 256GB M.2 NVMe SSD**\
+ >Samsung PM9A1 256GB M.2 PCIe Gen 4.0 NVMe SSD\
+ >HP EX900 M.2 250GB PCIe NVMe Internal SSD\
+ >Gigabyte 256GB NVMe M.2 SSD
  >Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
  >
 
