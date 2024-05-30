@@ -16,6 +16,7 @@
  > G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM
 
 **SSD :** 
+ >**Any 256GB NVMe SSD**
  >Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
  >
 
