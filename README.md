@@ -40,6 +40,7 @@
   
 **wifi Adaper :**
  >Havit WF32 300mbps USB Lan Card
+ >Tenda U1 300 Mbps Utral-Fast Wireless USB Adapter
 
 **KeyBoard Mouse:**
  >**MUST have Glowing Keys in Keyboard**\
