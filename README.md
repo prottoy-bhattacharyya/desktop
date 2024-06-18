@@ -17,6 +17,7 @@
 
 **SSD :** 
  >**Any 256GB M.2 NVMe SSD**\
+ >Gigabyte 256GB NVMe M.2 SSD\
  >Samsung PM9A1 256GB M.2 PCIe Gen 4.0 NVMe SSD\
  >HP EX900 M.2 250GB PCIe NVMe Internal SSD\
  >Gigabyte 256GB NVMe M.2 SSD
