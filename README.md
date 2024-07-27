@@ -40,6 +40,7 @@
  > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor with HDMI
   
 **wifi Adaper :**
+ >cudy pe25 2.5gbps pcie network adapter
  >Havit WF32 300mbps USB Lan Card
  >Tenda U1 300 Mbps Utral-Fast Wireless USB Adapter
 
