@@ -27,6 +27,7 @@
 
 
 **casing :**
+ >Value-Top V500W Mini Tower Micro ATX Gaming Casing
  >Value-Top V200CW Micro ATX Casing With **200w** PSU\
  >Value-Top VT-V100CW Mid Tower Micro-ATX Casing With PSU\
  >Revenger ECO 200-3F Mini Tower Micro-ATX Casing With PSU
