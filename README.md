@@ -11,12 +11,9 @@
  > **DDR4 - 8GB 3200 MT/s** \
  > **DDR5 - 8GB 5200 MT/s** \
  > TEAM VULCAN Black 8GB DDR5 5200MHz\
- > Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM\
- > Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM\
- > G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM
 
 **SSD :** 
- >**Any 256GB M.2 NVMe SSD**\
+
  >Gigabyte 256GB NVMe M.2 SSD\
  >Samsung PM9A1 256GB M.2 PCIe Gen 4.0 NVMe SSD\
  >HP EX900 M.2 250GB PCIe NVMe Internal SSD\
