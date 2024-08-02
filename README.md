@@ -35,6 +35,9 @@
 **Monitor :**
  > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor with HDMI\
  > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor with HDMI
+
+**UPS :**
+ >MaxGreen MG-LI-EAP-650VA 650VA Offline UPS
   
 **wifi Adaper :**
  >cudy pe25 2.5gbps pcie network adapter
