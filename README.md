@@ -39,7 +39,6 @@
  >MaxGreen MG-LI-EAP-650VA 650VA Offline UPS
   
 **wifi Adaper :**
- >cudy pe25 2.5gbps pcie network adapter
 
  >Havit WF32 300mbps USB Lan Card
 
