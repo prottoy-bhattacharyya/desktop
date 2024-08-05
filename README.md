@@ -11,7 +11,7 @@
 
 **SSD :** 
  >Colorful CN600 PRO 256GB M.2 NVMe SSD (Read: 3200MB/s, Write: 1200MB/s)
- >\
+ > \
  >HP EX900 PLUS 256GB M.2 PCIe NVMe Internal SSD (Sequential R/W: up to 2000MB/s / 1300MB/s)
  >Adata LEGEND 710 256GB M.2 PCIe Gen3 x4 NVMe SSD(Sequential Read/Write: up to 2,400/1,800 MB/s)
 
