@@ -47,6 +47,8 @@
 **KeyBoard Mouse:**
  >**MUST have Glowing Keys in Keyboard**\
 
+ >Havit MS72 Cool RGB LED USB Gaming Mouse Black
+
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo \
 
  > AULA T102 RGB Keyboard & Mouse Gaming Combo\
