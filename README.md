@@ -30,7 +30,8 @@
 
 
 **Monitor :**
- > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor with HDMI\
+ > Value-Top S22IFR100 21.5" 100Hz FHD IPS Monitor with HDMI
+
  > PC Power PCM22GW 21.5" 100Hz FHD IPS Gaming Monitor with HDMI
 
 **UPS :**
@@ -38,17 +39,23 @@
   
 **wifi Adaper :**
  >cudy pe25 2.5gbps pcie network adapter
+
  >Havit WF32 300mbps USB Lan Card
+
  >Tenda U1 300 Mbps Utral-Fast Wireless USB Adapter
 
 **KeyBoard Mouse:**
  >**MUST have Glowing Keys in Keyboard**\
+
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo \
+
  > AULA T102 RGB Keyboard & Mouse Gaming Combo\
+
  >DIAMOND FIELD DF-001 RGB PRO Keyboard\
+
  >Meetion MT-M371 USB Wired Backlit Gaming Mouse\
- > iMICE AK-600 Wired USB Luminescent Gaming Keyboard\
- >iMICE KM-760 RGB Gaming Keyboard and Mouse Combo\
+
  >Havit MS72 Cool RGB LED USB Gaming Mouse Black\
+
  >Havit MS1030 RGB Wired Gaming Mouse
 
