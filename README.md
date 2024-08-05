@@ -21,6 +21,8 @@
 
  >Value-Top VT-V100CW Mid Tower Micro-ATX Casing With PSU\
 
+**PSU**
+ >PC Power PC-PC350W PLUS 350W Power Supply
 
 **Casing Cooler :** 
  >Deepcool XFAN 80 Case Cooling Fan
