@@ -17,13 +17,10 @@
  >Adata LEGEND 710 256GB M.2 PCIe Gen3 x4 NVMe SSD(Sequential Read/Write: up to 2,400/1,800 MB/s)
 
 **casing :**
- >Value-Top V500W Mini Tower Micro ATX Gaming Casing
-
- >Value-Top V200CW Micro ATX Casing With **200w** PSU\
+ >Xtreme T38 RGB ATX Gaming Casing without Power Supply
 
  >Value-Top VT-V100CW Mid Tower Micro-ATX Casing With PSU\
 
- >Revenger ECO 200-3F Mini Tower Micro-ATX Casing With PSU
 
 **Casing Cooler :** 
  >Deepcool XFAN 80 Case Cooling Fan
