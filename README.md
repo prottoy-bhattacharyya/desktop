@@ -10,7 +10,7 @@
 **Ram :**
  > **DDR4 - 8GB 3200 MT/s** \
  > **DDR5 - 8GB 5200 MT/s** \
- > Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM\
+ > Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM \
 
 **SSD :** 
 
@@ -19,7 +19,6 @@
  >HP EX900 M.2 250GB PCIe NVMe Internal SSD\
  >Gigabyte 256GB NVMe M.2 SSD
  >Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
- >
 
 
 **casing :**
