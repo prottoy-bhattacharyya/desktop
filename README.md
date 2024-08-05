@@ -80,3 +80,6 @@
 
  >Havit MS1030 RGB Wired Gaming Mouse
 
+
+**Headphone**
+ >Oraimo BoomPop 2 OHP-610 Over-Ear Wireless Headphone
