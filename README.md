@@ -5,11 +5,8 @@
 
 **MotherBoard :** 
  > GIGABYTE H610M H DDR5 mATX Motherboard \
- > GIGABYTE H610M H DDR4 Micro ATX Motherboard
 
 **Ram :**
- > **DDR4 - 8GB 3200 MT/s** \
- > **DDR5 - 8GB 5200 MT/s** \
  > Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM \
 
 **SSD :** 
