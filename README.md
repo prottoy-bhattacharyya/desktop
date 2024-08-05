@@ -10,10 +10,10 @@
  > Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM \
 
 **SSD :** 
-
+ Colorful CN600 PRO 256GB M.2 NVMe SSD (Read: 3200MB/s, Write: 1200MB/s)
+HP EX900 PLUS 256GB M.2 PCIe NVMe Internal SSD (Sequential R/W: up to 2000MB/s / 1300MB/s)
  >Gigabyte 256GB NVMe M.2 SSD\
  >Samsung PM9A1 256GB M.2 PCIe Gen 4.0 NVMe SSD\
- >HP EX900 M.2 250GB PCIe NVMe Internal SSD\
  >Gigabyte 256GB NVMe M.2 SSD
  >Geil Zenith P3L 256GB M.2 2280 PCIe Gen3x4 SSD
 
