@@ -66,6 +66,8 @@
 
  >**MUST have Glowing Keys in Keyboard**\
 
+ >WALTON WKG011WB RGB GAMING KEYBOARD
+
  >Havit MS72 Cool RGB LED USB Gaming Mouse Black
 
  > AULA F2023 Wired Keyboard & Mouse Gaming Combo 
