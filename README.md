@@ -1,7 +1,7 @@
 # desktop
 
 **Proccessor :** 
- >Intel Core i3-12100 12th Gen Alder Lake Processor with proccessor cooler\
+ >Intel Core i3-12100 12th Gen Alder Lake Processor with proccessor cooler
 
 **MotherBoard :** 
  > GIGABYTE H610M H DDR5 mATX Motherboard 
@@ -66,7 +66,7 @@
 
 **KeyBoard Mouse:**
 
- >**MUST have Glowing Keys in Keyboard**\
+ >**MUST have Glowing Keys in Keyboard**
 
  >WALTON WKG011WB RGB GAMING KEYBOARD
 
