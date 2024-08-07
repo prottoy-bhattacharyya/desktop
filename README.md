@@ -11,6 +11,8 @@
 **Ram :**
  > Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM 
 
+ >Corsair VENGEANCE 16GB DDR5 6000MHz Desktop RAM (Compatibility: Intel 600 Series , Performance Profile: XMP 3.0)
+
 
 
 **SSD :** 
