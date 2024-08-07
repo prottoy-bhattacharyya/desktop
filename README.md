@@ -60,7 +60,7 @@
 
  >Tenda W311MI AX300 Wi-Fi 6 Wireless Nano USB Adapter (win, linux, uos)
 
- >Havit WF32 300mbps USB Lan Card
+ >Havit WF32 300mbps USB Lan Card (Supports WINXP/ LINUX/ VISTA/ WIN7)
 
  >Tenda U1 300 Mbps Utral-Fast Wireless USB Adapter
 
