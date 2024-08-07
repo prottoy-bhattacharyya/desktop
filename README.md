@@ -50,7 +50,9 @@
 
 
 **UPS :**
- >MaxGreen MG-LI-EAP-650VA 650VA Offline UPS
+ >MaxGreen MG-LI-EAP-650VA 650VA Offline UPS ( Simulated Sine Wave)
+
+ >KSTAR 3000VA Line Interactive Offline UPS ( Pure Sine Wave)
   
 
 
