@@ -25,7 +25,7 @@
 
 
 **casing :**
- >Xtreme T38 RGB ATX Gaming Casing without Power Supply
+ >Value-Top V500W Mini Tower Micro ATX Gaming Casing
 
  >Value-Top VT-V100CW Mid Tower Micro-ATX Casing With PSU
 
